@@ -1,0 +1,14 @@
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\bin\Debug\net6.0\SimpleSharpCord.exe
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\bin\Debug\net6.0\SimpleSharpCord.deps.json
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\bin\Debug\net6.0\SimpleSharpCord.runtimeconfig.json
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\bin\Debug\net6.0\SimpleSharpCord.dll
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\bin\Debug\net6.0\SimpleSharpCord.pdb
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.AssemblyInfoInputs.cache
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.AssemblyInfo.cs
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.csproj.CoreCompileInputs.cache
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.dll
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\refint\SimpleSharpCord.dll
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.pdb
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\SimpleSharpCord.genruntimeconfig.cache
+C:\Users\power\source\repos\SimpleSharpCord\SimpleSharpCord\obj\Debug\net6.0\ref\SimpleSharpCord.dll
